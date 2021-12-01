@@ -1,0 +1,55 @@
+[
+    {
+      "img1": "https://i.ibb.co/W03TcHR/s2.png",
+      "img2": "https://i.ibb.co/r5wwRWr/Car2.png",
+      "img3": "https://i.ibb.co/HFdCsff/car3.png",
+      "img4": "https://i.ibb.co/YDyT2kV/car4.png",
+      "img5": "https://i.ibb.co/7KbhQMR/Car5.png",
+      "title": "Car Dealership",
+      "details": "This Website help you easily Search your faavourite pottery.Here you will also take your relevant Products.You can Select your product and buy online.You can get 24 hour service.Help to you Know Our facilities.Our latest news and special Offer and Discount",
+      "livesite": "https://confident-franklin-78fa4b.netlify.app/home",
+      "servercode": "https://github.com/same-se22/niche-website-server-side",
+      "clientcode": "https://github.com/same-se22/niche-website-client-side",
+      "id":1
+    },
+    {
+      "img1": "https://i.ibb.co/9ssQKr6/fa2.png",
+      "img2": "https://i.ibb.co/j4gFXHw/fa3.png",
+      "img3": "https://i.ibb.co/yPjznN0/s3.png",
+      "img4": "https://i.ibb.co/SvpzTBd/fa4e.png",
+      "img5": "https://i.ibb.co/KrKpcn5/fa5.png",
+      "img6": "https://i.ibb.co/fYVCXdW/f5.png",
+      "title": "Fasion Zone",
+      "details": "This project is using for Fasion Zone facilities. you will find your every zone problem solution.Here you will also take your relevant package.You can book your appointment from online.Choose your Favourite doctors and check our facilities. You may also take our services.",
+      "livesite": "https://nervous-lamarr-a3cdab.netlify.app/",
+      "clientcode": "https://github.com/same-se22/ranga-store-fix",
+      "id":2
+    },
+    {
+      "img1": "https://i.ibb.co/9T7HTh0/va2.png",
+      "img2": "https://i.ibb.co/WcWSwY9/va3.png",
+      "img3": "https://i.ibb.co/X7ctyNd/va4.png",
+      "img4": "https://i.ibb.co/cYRYdM8/va5.png",
+      "img5": "https://i.ibb.co/gry3Bn9/s1.png",
+      "img6": "https://i.ibb.co/NKf4vx0/v6.png",
+      "img7": "https://i.ibb.co/Gk3Zhsx/v8.png",
+      "img8": "https://i.ibb.co/sRcpR6c/v7.png",
+      "title": "Travesia Travel Agency",
+      "details": "This Website help you easily Search your needed Travel Destination.Here you will also take your relevant Family Tour package.You can book your Tour Ticket advance from online.Choose your Favorite Tour package and Hotel Package.Help to you Know Our facilities.Our latest news and special Offer and Discount.You may also take our 24/7 Emergency helpline service.",
+      "livesite": "https://assignment-11-72aaf.web.app/",
+      "servercode": "https://github.com/tonni-akter-dev/assignment-11-server-site",
+      "clientcode": "https://github.com/tonni-akter-dev/assignment-11-client-site",
+      "id":3
+    },
+    {
+        "img1": "https://i.ibb.co/9ssQKr6/fa2.png",
+        "img2": "https://i.ibb.co/j4gFXHw/fa3.png",
+        "img3": "https://i.ibb.co/yPjznN0/s3.png",
+        "title": "Travesia Travel Agency",
+        "details": "This Website help you easily Search your needed Travel Destination.Here you will also take your relevant Family Tour package.You can book your Tour Ticket advance from online.Choose your Favorite Tour package and Hotel Package.Help to you Know Our facilities.Our latest news and special Offer and Discount.You may also take our 24/7 Emergency helpline service.",
+        "livesite": "https://assignment-11-72aaf.web.app/",
+        "servercode": "https://github.com/same-se22/niche-website-server-side",
+        "clientcode": "https://github.com/same-se22/ranga-store-fix",
+      "id":4
+    }
+  ]
